@@ -1,0 +1,11 @@
+Controle de Funcionários Instruções
+
+1) Importe o banco de dados RecursosHumanos no SQL Server (ele se encontra na pasta AppData)
+
+2) Abra o projeto como um  Website no VS 2012 ou Superior. (File->Open->Website)
+
+3) Atualize a string de conexão Web.Config com a conexão definida
+
+4) execute o projeto iniciando com a página Default.aspx
+
+5) Acesse o sistema na tela de login com usuário: admin e password: admin
